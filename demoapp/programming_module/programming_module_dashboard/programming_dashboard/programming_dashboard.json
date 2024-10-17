@@ -1,0 +1,28 @@
+{
+ "cards": [
+  {
+   "card": "Card one"
+  }
+ ],
+ "charts": [
+  {
+   "width": "Half"
+  },
+  {
+   "chart": "Dashboard Chart One",
+   "width": "Half"
+  }
+ ],
+ "creation": "2024-10-17 15:14:11.205057",
+ "dashboard_name": "Programming Dashboard",
+ "docstatus": 0,
+ "doctype": "Dashboard",
+ "idx": 0,
+ "is_default": 1,
+ "is_standard": 1,
+ "modified": "2024-10-17 15:20:29.414831",
+ "modified_by": "Administrator",
+ "module": "Programming Module",
+ "name": "Programming Dashboard",
+ "owner": "Administrator"
+}
