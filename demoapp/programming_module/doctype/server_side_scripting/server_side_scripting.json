@@ -8,6 +8,7 @@
  "engine": "InnoDB",
  "field_order": [
   "enable",
+  "clientside_doc",
   "firstname",
   "middlename",
   "lastname",
@@ -91,12 +92,18 @@
    "fieldtype": "Table",
    "label": "Family Member",
    "options": "Family Members"
+  },
+  {
+   "fieldname": "clientside_doc",
+   "fieldtype": "Link",
+   "label": "Clientside doc",
+   "options": "Clientside Scripting"
   }
  ],
  "index_web_pages_for_search": 1,
  "is_submittable": 1,
  "links": [],
- "modified": "2024-10-14 15:29:13.508623",
+ "modified": "2024-10-15 14:26:23.269401",
  "modified_by": "Administrator",
  "module": "Programming Module",
  "name": "Server Side Scripting",

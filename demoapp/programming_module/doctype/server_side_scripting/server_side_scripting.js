@@ -6,3 +6,21 @@
 
 // 	},
 // });
+
+// frappe.ui.form.on("Server Side Scripting",{
+//   enable: function(frm){
+//     frm.call({
+//       doc: frm.doc,
+//       method:frm_call,
+//       args:{
+//         msg:"hello"
+//       },
+//       freeze:true,
+//       freeze_message:('Calling frm_call method'),
+//       callback: function(r){
+//         frappe.msgprint(r.message)
+//       }
+
+//     });
+//   }
+// });
